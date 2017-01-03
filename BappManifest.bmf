@@ -1,0 +1,11 @@
+Uuid: f5ca4f46dc37424c9666845a6ad0ecef
+ExtensionType: 1
+Name: Custom Logger
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author:  PortSwigger
+ShortDescription: Adds a new tab to log all requests and responses.
+EntryPoint: build/libs/custom-logger-all.jar
+BuildCommand: gradle -PburpJar=$BURP_JAR fatJar
