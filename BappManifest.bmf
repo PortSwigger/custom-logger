@@ -8,4 +8,4 @@ ProOnly: False
 Author:  PortSwigger
 ShortDescription: Adds a new tab to log all requests and responses.
 EntryPoint: build/libs/custom-logger-all.jar
-BuildCommand: gradle -PburpJar=$BURP_JAR fatJar
+BuildCommand: gradle fatJar
