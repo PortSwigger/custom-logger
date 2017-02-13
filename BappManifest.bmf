@@ -1,6 +1,7 @@
 Uuid: f5ca4f46dc37424c9666845a6ad0ecef
 ExtensionType: 1
 Name: Custom Logger
+RepoName: custom-logger
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
